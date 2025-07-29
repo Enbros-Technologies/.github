@@ -1,14 +1,14 @@
-# Welcome to the Enbros Organization on GitHub!
+# Welcome to the Enbros Organisation on GitHub!
 
 ## 👋 About Us
 
-We are a modern engineering company built for businesses that want to move faster. Headquartered in the UK with a growing delivery hub in Nigeria, Enbros combines strategic oversight with scalable engineering to help organizations modernize their operations.
+We are a modern engineering company built for businesses that want to move faster. Headquartered in the UK with a growing delivery hub in Nigeria, Enbros combines strategic oversight with scalable engineering to help organisations modernize their operations.
 
 Our mission is to help you build the right thing, the right way—faster, cheaper, and with zero compromise on quality. We remove friction, reduce waste, and move at pace to deliver measurable impact.
 
 ## 🚀 What We Do: AI-First Engineering
 
-At Enbros, we specialize in modernizing businesses through an AI-first approach. This means AI is not just an add-on; it's at the core of how we design, build, and deploy solutions.
+At Enbros, we specialise in modernising businesses through an AI-first approach. This means AI is not just an add-on; it's at the core of how we design, build, and deploy solutions.
 
 * **Intelligent Bespoke Platforms:** We design and build intelligent, custom software that learns and adapts, providing unique value to your business.
 
